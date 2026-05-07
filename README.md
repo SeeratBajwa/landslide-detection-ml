@@ -28,3 +28,5 @@ Compared detection-based vs segmentation-based approaches for improved landslide
 
 ## Note
 This repository contains experimental implementations for academic and research purposes.
+
+Due to large training logs and outputs, notebooks may not fully render on GitHub. Please download and run locally for complete results.
