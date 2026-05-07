@@ -21,6 +21,7 @@ Multi-sensor remote sensing data including SAR (Sentinel-1), multispectral image
 - Evaluation using Precision, Recall, F1-score, mAP (YOLO)  
 - IoU used for segmentation performance  
 - Visual results included in `/results/images`
+- U-net performed significantly better
 
 ## Key Insight
 Compared detection-based vs segmentation-based approaches for improved landslide mapping accuracy.
